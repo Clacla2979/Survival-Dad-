@@ -1,6 +1,6 @@
 # Survival-Dad 
 ## Fiche signalétique
-Genre : jeu de survie qui cible des personnes de 12+
+Genre : jeu de survie qui cible des personnes de 12+  de support PC
 ## Pitch 
 Dans se jeu vous incarnerez un père de famille qui devra se battre jusqu´au péril de sa vie pour rammener dix plantes rares ( c'est plantes  s'appelle les Pflanzen ) de l´archipel "Dad" à sa famille.
 ## Sénario
@@ -8,6 +8,7 @@ Le jeu se situe sur un archipel imaginaire appeler l´archipel "Dad" . Cette arc
 ## Conditions de victoire et de defaites
 ### Victoires : Vous etes victorieux quand le héro parvient à terminer la quête principale a temps . Il y a quelque quête secondaire qui ne sont pas obligatoire mais vous pouvais toujours les faire pour vous ammusez.
 ### Défaites : vous etes vaincus quand le hero meurt , Le héro peut mourir de differante façon : Il peut se faire tuer par une creature . Il peut se noyer (si il est entre deux îles et qu´il n´a plus de force il peut se noyer).Il peut mourir de fatigue (immaginons qu´il n´est plus de nourriture et d´eau potable) . Et pour finir il peut sucomber de ses blessures (si il pert trop de sang il meurt ).Vous etes vaincus quand vous ne finissez pas la quete principale a temps
+### il y a des point de sauvegarde so vous construiser une cabane .
 ## Gameplay
 ### Les Creatures
 - Il y aura des creatures sur terre comme dans l´ocean et comme dans les air . 
@@ -23,6 +24,8 @@ Le jeu se situe sur un archipel imaginaire appeler l´archipel "Dad" . Cette arc
 - Le héro ne si connais pas en végétations mais par contre il est très fort en combat .
 - Il pouura donner quelque signe d'aggacement si il ne trouve pas une Pflanzen ou si il ne mange pas .Il sera aussi sensible .
 - Quand vous affonterez une creatues vous serez en zones de combat donc il n´y aura aucun moyen de fuire .
+### Combat
+- lors du combat les points de vie seront en haut et les point d'attaque seront afficher surles creature et le hero
 ## USP
 - Vous pouvez apprendre des techniques de survie 
 - 
